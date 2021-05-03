@@ -1,0 +1,30 @@
+The coding part of your assessment has two components:
+To code a website using Visual Studio Code (VSCode) or any other similar editor. The website should be 4 pages (including the landing page)
+ and must include elements and skills taught to you in each of the coding sessions. The more elements you use to effect and code successful
+ly, the better. The site architecture also needs to be clearly visible and consider standards, accessibility, and usability criteria. 
+You will submit your assignment using Git and Github. [50% of your final grade]
+To write a report where you outline your decisions and explain your choices e.g. why you have placed a menu bar at the top, the reason you
+ have chosen to use a certain font or colour choice, details about the code and its formatting, etc. [20% of your final grade]
+CODING ASSESSMENT DELIVERABLES (BOTH PARTS)
+Your assignment submission must contain:
+
+PART I: A Website
+
+HTML code: build four HTML documents using Semantic HTML. The website should include a form, navigation, header, footer.
+CSS code: in total, your project should ideally have five stylesheets: one global stylesheet used in all four pages, and one individual 
+stylesheet for each page. Ideally, you should use Flexbox and Media Queries to make your website responsive for mobile, tablets, 
+and desktop.
+JavaScript code: your project should use JS to add interaction to the website selecting and manipulating the DOM, some basic asynchronous 
+behaviour either using a mock API, real API, or some behaviour with setTimeout.
+Remember to use best practices, accessibility, correct folder structure, lighthouse in Chrome DevTools to fix errors (except PWA).
+
+Push all of your code to Github and deployed on Github Pages by the deadline.
+
+PART II: Supporting documentation:
+Write a 1000-2000 word report describing the development of your pages.
+
+The documentation should demonstrate your understanding of Web Standards, your wider reading, use of documentation like MDN and 
+Stack Overflow, any tutorials/articles/blogs, your decisions on Coding Standards. You can also briefly mention design and 
+usability/accessibility issues, but the focus should be on your coding practice. Include screenshots for each page showing screenshots 
+for the following devices: desktop, tablet, and mobile. You do not need to show screenshots of code, a small excerpt is fine when 
+discussing the decisions made.
